@@ -3,7 +3,7 @@ This module if the entry point for the pacman game.
 
 """
 
-__author__ = "Pierre Caserta"
+__author__ = "."
 
 import argparse
 import logging
